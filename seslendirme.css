@@ -1,0 +1,112 @@
+#container {
+	background-color:white;
+}
+#nav {
+	background-color:#f8bfac;
+	width:15%;
+	height:930px;
+	padding: 20px;
+    border-radius:20px;
+    margin-bottom: 15px;
+	margin-left:35px;
+	font-family:Arial;
+	line-height:25px;
+
+}
+#nav ul li{
+	cursor: pointer;
+	position:relative;top:-15px;
+	color:#e73c32;
+}
+.content{
+	background-color:#fde8e1;
+	width:55%;
+	height:975px;
+	position: absolute;
+	left: 300px;  
+	top: 210px;
+	border-radius:20px;
+}
+.baslik {
+	background-color:#f4a38d;
+	width:380px;
+	height:170px;
+	margin-left:500px;
+	position:absolute; 
+	border-radius:20px;
+	position:absolute;
+	
+}
+h1,h2,h3 {
+  font-family:Impact;
+  text-align: center;
+  color:#e41020;
+  font-size:25px;
+  
+}
+  
+ .giris {
+	width:100%;
+	height:200px;
+}
+.giris form {
+	margin-left:1100px;
+	margin-top:150px;
+
+}
+.giris img {
+	margin-bottom:-150px;
+	width:150px;
+	height:100px;
+	margin-left:75px;
+}
+#tavsiye {
+	background-color:#f8bfac;
+	width:13%;
+	height:930px;
+	padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+	margin-left:1100px;
+	font-family:Arial;
+	position: relative; top:-985px;
+
+}
+#kitap p { 
+    color:#e73c32;
+	font-family:Impact;
+	text-align:right;
+	font-size:45px;
+	position: relative; top:-10px;
+	line-height:15px; 
+	letter-spacing: 5px;
+    margin-bottom:10px;
+	
+}
+#resim {
+	height:350px;
+	width:250px;
+	background-color:#f8bfac;
+	margin-left:-60px;
+	border-radius:30px;
+}
+#resim img {
+	margin-left:30px;
+	position: relative; top:30px;
+	
+}	
+#resim p {
+	font-family:Impact;
+	margin-left:90px;
+	position: relative; bottom:-90px;
+	color:#e73c32;
+}
+.icerik {
+	position:relative; left:30px; right:30px; top:20px; bottom:20px;
+	
+}
+.icerik iframe {
+	width:340px;
+	height:228px;
+	border-radius:20px;
+}

@@ -1,0 +1,244 @@
+h1,h2 {
+  font-family:Impact;
+  text-align: center;
+  color:#635e5f;
+  font-size:30px;
+  
+}
+
+.giris {
+	width:100%;
+	height:200px;
+}
+.giris img {
+	margin-bottom:-150px;
+	width:150px;
+	height:100px;
+	margin-left:75px;
+}
+.giris form {
+	margin-left:1100px;
+	position:relative;top:-50px;
+}
+#nav {
+	background-color:#ffc1c1;
+	width:15%;
+	height:930px;
+	padding: 20px;
+    border-radius:20px;
+    margin-bottom: 15px;
+	margin-left:35px;
+	font-family:Arial;
+	line-height:25px;
+
+}
+#nav ul li{
+	cursor: pointer;
+	position:relative;top:-15px;
+	font-weight: bold;
+	word-spacing:5px;
+	line-height:30px;
+}	
+#nav ul li a:hover{
+	color:red;
+}
+.yazar {
+	background-color:#e6e6fa;
+	width:45%;
+	height:180px;
+	font-family:Arial;
+	border-radius: 25px;
+	padding: 20px;
+	font-size:15px;
+	margin-top:-980px; 
+	margin-left:330px;
+}
+.yazar img {
+	height:150px;
+	width:100px;
+	padding-left:15px;
+	margin-top:10px;
+	
+}
+.yazar ul {
+	list-style-type:none;
+	font-family:Arial, Sans-serif;
+	word-spacing:2px;
+}
+.yazar ul li{
+	float:left;
+	padding:6px;
+	position: relative; top: -10px;
+	cursor: pointer;
+	
+}
+.muzik{
+	background-color:#ffe4e1;
+	width:45%;
+	height:180px;
+	font-family:Arial;
+	border-radius: 25px;
+	padding: 20px;
+	font-size:15px;
+	margin-top:20px; 
+	margin-left:330px;
+}
+.muzik img{
+	height:150px;
+	width:100px;
+	padding-left:15px;
+	margin-top:10px;
+}
+.muzik ul {
+	list-style-type:none;
+	font-family:Arial, Sans-serif;
+	
+}
+.muzik ul li{
+	float:left;
+	padding:6px;
+	position: relative; top: -10px;
+	cursor: pointer;
+	margin:2px;
+	
+}
+#sair {
+	background-color:#eed5d2;
+	width:45%;
+	height:180px;
+	font-family:Arial;
+	margin-left:330px;
+	margin-top:20px;
+	border-radius: 25px;
+
+	padding: 20px;
+	font-size:15px;
+}
+#sair img {
+	height:150px;
+	width:100px;
+	padding-left:15px;
+	margin-top:10px;
+}
+#sair ul {
+	list-style-type:none;
+	font-family:Arial, Sans-serif;
+	
+}
+#sair ul li{
+	float:left;
+	padding-left:10px;
+	position: relative; top: -10px;
+	padding-right:10px;
+	cursor: pointer;
+}
+#seslendirmen {
+	background-color:#cdb7b5;
+	width:45%;
+	height:180px;
+	font-family:Arial;
+	border-radius: 25px;
+	margin-left:330px;
+	margin-top:20px;
+	padding:20px;
+
+}
+#seslendirmen img {
+	height:150px;
+	width:100px;
+	padding-left:35px;
+	margin-top:10px;
+}
+#seslendirmen ul {
+	list-style-type:none;
+	font-family:Arial, Sans-serif;
+	
+}
+#seslendirmen ul li {
+	float:left;
+	padding-left:10px;
+	position: relative; top: -10px;
+	padding-right:10px;
+	font-size:15px;
+	cursor: pointer;
+}
+#tavsiye {
+	background-color:#aeeeee;
+	width:13%;
+	height:930px;
+	padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+	margin-left:1100px;
+	font-family:Arial;
+	margin-top:-950px;
+
+}
+#kitap p { 
+    color:#771e21;
+	font-family:Impact;
+	text-align:right;
+	font-size:45px;
+	position: relative; top:-10px;
+	line-height:15px; 
+	letter-spacing: 5px;
+    margin-bottom:10px;
+	
+}
+#resim {
+	height:350px;
+	width:250px;
+	background-color:#aeeeee;
+	margin-left:-60px;
+	border-radius:30px;
+}
+#resim img {
+	margin-left:30px;
+	position: relative; top:30px;
+	
+}	
+#resim p {
+	font-family:Impact;
+	margin-left:90px;
+	position: relative; bottom:-90px;
+	
+	
+}
+#uyelik {
+	background-color:#ffaeb9;
+	width:245px;
+	height:290px;
+	margin-left:30px;
+	border-radius:30px;
+}
+#uyelik form {
+	margin-left:35px;
+	font-family:Arial;
+}
+#uyelik P{
+	margin-left:37px;
+	font-family:Arial;
+	position: relative; top:20px;
+	font-size:20px;
+	cursor: pointer;
+	
+	
+}
+#kayit {
+	background-color:#4256d4;
+	width:160px;
+	height:30px;
+	margin-left:50px;
+	border-radius:15px;
+	position: relative; top:20px;
+	color:white;
+	
+
+}
+#kayit p{
+	font-size:20px;
+	margin:0 auto;
+	font-family:Impact;
+	position: relative; top:3px;
+	margin-left:22px;
+}
